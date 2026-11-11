@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Quản lý kho hàng</string>
+    <string name="login_title">Đăng Nhập Quản Lý Kho</string>
+    <string name="username">Tên đăng nhập</string>
+    <string name="password">Mật khẩu</string>
+    <string name="login_button">Đăng nhập</string>
+    <string name="login_empty_error">Vui lòng nhập đầy đủ thông tin</string>
+    <string name="login_failed_error">Sai tên đăng nhập hoặc mật khẩu</string>
+
+    <string name="total_products">Tổng sản phẩm: %d</string>
+    <string name="total_value">Tổng giá trị: %s</string>
+    <string name="low_stock_count">Sắp hết hàng: %d</string>
+    <string name="add_product">Thêm sản phẩm</string>
+
+    <string name="add_product_title">Thêm Sản Phẩm Mới</string>
+    <string name="product_name">Tên sản phẩm</string>
+    <string name="price">Giá bán (VNĐ)</string>
+    <string name="quantity">Số lượng</string>
+    <string name="category">Loại sản phẩm</string>
+    <string name="is_active">Đang kinh doanh</string>
+    <string name="description">Mô tả</string>
+    <string name="save_product">Lưu sản phẩm</string>
+
+    <string name="product_detail_title">Chi Tiết Sản Phẩm</string>
+    <string name="add_one">+1 Nhập thêm</string>
+    <string name="sell_one">-1 Bán</string>
+    <string name="back">Quay lại</string>
+    <string name="delete">Xóa sản phẩm</string>
+    <string name="low_stock_warning">Sắp hết hàng!</string>
+    <string name="out_of_stock">Hết hàng</string>
+    <string name="status_active">Trạng thái: Đang kinh doanh</string>
+    <string name="status_inactive">Trạng thái: Ngừng kinh doanh</string>
+
+    <string-array name="categories">
+        <item>Điện tử</item>
+        <item>Thực phẩm</item>
+        <item>Văn phòng phẩm</item>
+        <item>Gia dụng</item>
+        <item>Khác</item>
+    </string-array>
+</resources>
